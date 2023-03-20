@@ -5,8 +5,6 @@
 - 📫 Reach me at 
 - insta- @harryisosm
 - email- harryisosm@gmail.com
-- Call me on - 7744048491
-
 <!---
 harryisosm/harryisosm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
